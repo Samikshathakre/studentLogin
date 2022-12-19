@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OreoDroiders</string>
+    <string name="welcome_to_writer_s_connection">Welcome to writer\'s connection!</string>
+    <string name="welcome_to_writer_s">Welcome to Writer\'s connection!</string>
+    <string name="content">A community for writers and aspiring authors with great stories, and established authors with new story to tell.</string>
+    <string name="signin">SignIn</string>
+    <string name="sign1">SignUp</string>
+</resources>
