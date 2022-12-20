@@ -5,4 +5,13 @@
     <string name="content">A community for writers and aspiring authors with great stories, and established authors with new story to tell.</string>
     <string name="signin">SignIn</string>
     <string name="sign1">SignUp</string>
+    <string name="student_login">Student Login</string>
+    <string name="sign_into_your_account">Sign into your account</string>
+    <string name="welcome">Welcome</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="login">Login</string>
+    <string name="dont">Don\'t have an account?</string>
+    <string name="create">Create</string>
 </resources>
